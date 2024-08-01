@@ -1,0 +1,26 @@
+.pais_capital{
+    background-color: aqua;
+}
+
+.nav-links li{
+    display:inline-block;
+    margin-right: 20px;
+    justify-content: center;
+}
+
+.imagens {
+    width: 500px;
+}
+.imagem_paris{
+    width: 300px;
+}
+
+.body {
+    background-color: aqua;
+}
+
+.rodape__li{
+    display: inline-block;
+    justify-content: center;
+    margin-right: 20px;
+}
